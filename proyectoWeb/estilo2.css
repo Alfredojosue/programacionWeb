@@ -1,0 +1,24 @@
+h4 {
+  font-family: "Times New Roman",Times,serif;
+  font-size: 1.9em;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  background-color: #ffff66;
+}
+h5 {
+  font-family: "Times New Roman",Times,serif;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: red;
+}
+h3 {
+  font-family: "Times New Roman",Times,serif;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  font-size: 1.6em;
+  background-color: #ffff33;
+}
